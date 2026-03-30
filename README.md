@@ -42,5 +42,6 @@ Tenho perfil analítico, comunicação clara e forte capacidade de resolver prob
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitoriaCamposRosa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaCamposRosa&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitoriaCamposRosa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitoriaCamposRosa&layout=compact&theme=tokyonight)
