@@ -40,4 +40,5 @@ Tenho perfil analítico, comunicação clara e forte capacidade de resolver prob
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Vitória!;Estudante+de+TI;Foco+em+Segurança+e+Dados;Sempre+aprendendo+🚀)](https://git.io/typing-svg)
+![Snake animation](https://github.com/VitoriaCamposRosa/VitoriaCamposRosa/blob/output/github-contribution-grid-snake.svg)
+
