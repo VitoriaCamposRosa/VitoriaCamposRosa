@@ -37,8 +37,3 @@ Tenho perfil analítico, comunicação clara e forte capacidade de resolver prob
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitoria-campos-rosa-ti)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:vitoriacamposrosa28@gmail.com)
-
----
-
-![Snake animation](https://github.com/VitoriaCamposRosa/VitoriaCamposRosa/blob/output/github-contribution-grid-snake.svg)
-
